@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cD+00FoJJjLZc7EAhjH9TAorRJlZyQrUBDjAgZvncUPDzeS6oiExVyxHUr0Cz19ZpWux3cURSbwnCZW9KLHj9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deivid\\Google Drive\\Programação\\Projetos\\Projetos C#\\RICH_DOMAIN_MODEL\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deivid\\.nuget\\packages\\flunt\\2.0.2\\flunt.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

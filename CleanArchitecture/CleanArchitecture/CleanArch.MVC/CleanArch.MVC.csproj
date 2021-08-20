@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-CleanArch.MVC-5AEE0DEA-A884-4C9E-BA91-1015FCC44475</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArch.Infra.Data\CleanArch.Infra.Data.csproj" />
+    <ProjectReference Include="..\CleanArch.Infra.IoC\CleanArch.Infra.IoC.csproj" />
+  </ItemGroup>
+
+</Project>

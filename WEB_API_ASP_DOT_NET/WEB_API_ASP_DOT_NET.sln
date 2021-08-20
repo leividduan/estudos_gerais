@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICatalago", "APICatalago\APICatalago.csproj", "{D13FCDB9-FE36-4B24-9CC1-47D02F7C54A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICatalagoXUnitTestes", "APICatalagoXUnitTestes\APICatalagoXUnitTestes.csproj", "{1B3091F0-7D0F-4743-B988-116CB93254BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13FCDB9-FE36-4B24-9CC1-47D02F7C54A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13FCDB9-FE36-4B24-9CC1-47D02F7C54A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13FCDB9-FE36-4B24-9CC1-47D02F7C54A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13FCDB9-FE36-4B24-9CC1-47D02F7C54A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3091F0-7D0F-4743-B988-116CB93254BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3091F0-7D0F-4743-B988-116CB93254BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3091F0-7D0F-4743-B988-116CB93254BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3091F0-7D0F-4743-B988-116CB93254BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77101B47-D245-4E70-ACD2-2D928218A879}
+	EndGlobalSection
+EndGlobal
